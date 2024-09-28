@@ -31,9 +31,7 @@ export default function Home() {
           droppable={true}
           selectable={true}
           selectMirror={true}
-          // dateClick={{}}
-          // drop={}
-          // eventClick={}
+
           />
         </div>
       </div>
