@@ -28,7 +28,5 @@ export default function Calendar() {
           // eventClick={}
           />
         </div>
-
-    </div>
   );
 }
