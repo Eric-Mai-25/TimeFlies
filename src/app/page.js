@@ -1,6 +1,5 @@
 "use client"
 
-import FullCalendar from '@fullcalendar/react';
 
 import Calendar from './components/CalendarComponent.js';
 

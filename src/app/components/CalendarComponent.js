@@ -1,6 +1,11 @@
 "use client";
 
 import React, { useState } from 'react';
+import dayGridPlugin from '@fullcalendar/daygrid'
+import interactionPlugin, {Draggable, DropArg} from '@fullcalendar/interaction'
+import timeGridPlugin from '@fullcalendar/timegrid'
+import FullCalendar from '@fullcalendar/react';
+
 
 export default function Calendar() {
 
