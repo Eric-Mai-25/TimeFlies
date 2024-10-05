@@ -28,7 +28,7 @@ export default function Calendar() {
           droppable={true}
           selectable={true}
           selectMirror={true}
-          // dateClick={{}}
+          dateClick={{}}
           // drop={}
           // eventClick={}
           />
